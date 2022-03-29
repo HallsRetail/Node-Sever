@@ -1,0 +1,26 @@
+{
+  "name": "nodeserver",
+  "version": "0.0.1",
+  "description": "Simple Nodejs Application Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HallsRetail/Node-Server.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Tristan Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HallsRetail/Node-Server/issues"
+  },
+  "homepage": "https://github.com/HallsRetail/Node-Server#readme",
+  "devDependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
